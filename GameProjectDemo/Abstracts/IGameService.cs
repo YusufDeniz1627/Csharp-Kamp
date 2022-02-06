@@ -1,9 +1,9 @@
-﻿using GameProject.Entities;
+﻿using GameProjectDemo.Entities;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace GameProject.Abstracts
+namespace GameProjectDemo.Abstracts
 {
     interface IGameService
     {

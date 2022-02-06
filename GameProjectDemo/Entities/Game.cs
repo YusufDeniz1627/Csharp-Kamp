@@ -2,13 +2,16 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace GameProject.Entities
+namespace GameProjectDemo.Entities
 {
-    public class Game
+    class Game
     {
         public int Id { get; set; }
         public String Name { get; set; }
+
         public String Price { get; set; }
+
+
 
     }
 }
